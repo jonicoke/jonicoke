@@ -1,10 +1,16 @@
 # 👔  SOBRE MÍ  👖 
-Estudio en la Universidad Nacional de Hurlingham (UNAHUR) la carrera de Tecnicatura en Programación. Actualmente por el 2do año de la misma, con 11/19 materias aprobadas. 
- En el transcurso de mis estudios aprendí diversas habilidades y estrategias fundamentales de la lógica de programación.
+Mi nombre es Jonathan, tengo 21 años y soy taurino!
+ Estudio en la Universidad Nacional de Hurlingham (UNAHUR) la carrera de Tecnicatura en Programación.
+Actualmente voy por el 2do año, con 11/19 materias aprobadas.  
+En el transcurso de mis estudios aprendí diversas habilidades y estrategias fundamentales de la lógica de programación.
+Estudio de manera autodidacta JavaScript nativo.
 
-_____    💻 HABILIDADES 💻     _____
- Programación orientada a objetos (Java), estructuras de datos (Python), programación estructurada, HTML5, CSS, JavaScript Nativo. Manejo de Git y trabajo en equipo.
+# 💻 HABILIDADES 💻
+ - HTML5, CSS, JavaScript + Boostrap
+ - Programación orientada a objetos (Java)
+ - Estructuras de datos (Python)
+ - Git
     
-_____    📩  CONTACTO   📩     _____
+# 📩  CONTACTO   📩
 Email: cokejonathang@gmail.com
 GitHub: https://github.com/jonicoke
