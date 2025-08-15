@@ -7,8 +7,7 @@ En el transcurso de mis estudios aprendí diversas habilidades y estrategias fun
 Mi perfil de programador va dirigido al desarrollo web frontend (JavaScript) y al desarrollo de aplicaciones (Java).
 
 # 💻 HABILIDADES 💻
-
->> Java, JavaScipt, Python.
+Java, JavaScipt, Python.
  - Desarrollo Frontend 
  - Desarrollo de aplicaciones 
  - Estructuras de datos
