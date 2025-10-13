@@ -1,17 +1,16 @@
-# 👔  SOBRE MÍ  👖 
-Mi nombre es Jonathan. Estudio en la Universidad Nacional de Hurlingham (UNAHUR) la carrera de Tecnicatura en Programación junto con la Licenciatura en Informática.
-Actualmente voy por el 2do año, con 11/19 materias aprobadas y un promedio de 8,63.
-En el transcurso de mis estudios aprendí diversas habilidades y estrategias fundamentales de la lógica de programación. Así como la programación estructurada, estructura de datos, programación con objetos, las distintas estrategias y formas de resolución de problemas, entre otras.
- Estudio de manera autodidacta JavaScript y actualmente estoy estudiando POO con Java en la licenciatura.
-Mi perfil de programador va dirigido al desarrollo web frontend (JavaScript) y al desarrollo de aplicaciones (Java).
+# Sobre mí
+Mi nombre es Jonathan, soy de la provincia de Buenos Aires, Argentina. Estudio en la Universidad Nacional de Hurlingham (UNAHUR) la carrera Licenciatura en Informática.
+En el transcurso de mis estudios aprendí diversas habilidades y estrategias fundamentales de la lógica de programación. Así como la programación estructurada, estructura de datos, programación orientada a objetos, patrones de diseño, principios SOLID y la resolución de problemas.
 
-# 💻 HABILIDADES 💻
-Java, JavaScipt, Python.
+
+#  ¿En qué me destaco?
+Enfoco mis estudios en el desarrollo web con Javascript, habiendo realizado diversos cursos y proyectos de manera autodidacta. Actualmente utilizo javascript nativo, sin embargo está en curso el desarrollo de mi conocimiento en el framework React.
+
  - Desarrollo Frontend 
  - Desarrollo de aplicaciones 
- - Estructuras de datos
  - Control de versiones Git / Git Hub
-    
+ - 
+Javascript, Java, Python, Mongo DB ATLAS.    
 # 📩  CONTACTO   📩
 
 Email: cokejonathang@gmail.com
