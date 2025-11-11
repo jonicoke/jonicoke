@@ -6,6 +6,7 @@ En el transcurso de mis estudios aprendí diversas habilidades y estrategias fun
 #  ¿En qué me destaco?
 Enfoco mis estudios en el desarrollo con Javascript, habiendo realizado diversos cursos universitarios y proyectos de manera autodidacta. Actualmente utilizo javascript nativo, sin embargo está en curso el desarrollo de mi conocimiento en el framework React.
 
+ - Node.js, Express
  - Desarrollo Frontend 
  - Desarrollo de aplicaciones 
  - Control de versiones Git / Git Hub
