@@ -1,19 +1,10 @@
-# ¿Quién soy?
-Mi nombre es Jonathan, soy de la provincia de Buenos Aires y tengo 21 años. Estudio en la Universidad Nacional de Hurlingham (UNAHUR) la carrera Licenciatura en Informática.
-En el transcurso de mis estudios aprendí diversas habilidades y estrategias fundamentales de la lógica de programación. Así como la programación estructurada, estructura de datos, programación orientada a objetos, patrones de diseño, principios SOLID y la resolución de problemas.
+# 💫 Sobre mí:
+¿Quién soy?<br>Mi nombre es Jonathan, soy de la provincia de Buenos Aires y tengo 21 años. Estudio en la Universidad Nacional de Hurlingham (UNAHUR) la carrera Licenciatura en Informática. En el transcurso de mis estudios aprendí diversas habilidades y estrategias fundamentales de la lógica de programación. Así como la programación estructurada, estructura de datos, programación orientada a objetos, patrones de diseño, principios SOLID y la resolución de problemas.<br><br>¿En qué me destaco?<br>Enfoco mis estudios en el desarrollo con Javascript, habiendo realizado diversos cursos universitarios y proyectos de manera autodidacta. Actualmente utilizo javascript nativo, sin embargo está en curso el desarrollo de mi conocimiento en el framework React.<br><br>Node.js, Express<br>Desarrollo Frontend<br>Desarrollo de aplicaciones<br>Control de versiones Git / Git Hub<br>Javascript, Java, Python, Mongo DB ATLAS.<br><br>📩 CONTACTO 📩<br>Email: cokejonathang@gmail.com LinkedIn: https://www.linkedin.com/in/jonathan-giacomini/
 
 
-#  ¿En qué me destaco?
-Enfoco mis estudios en el desarrollo con Javascript, habiendo realizado diversos cursos universitarios y proyectos de manera autodidacta. Actualmente utilizo javascript nativo, sin embargo está en curso el desarrollo de mi conocimiento en el framework React.
+## 🌐 Contacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-giacomin) 
 
- - Node.js, Express
- - Desarrollo Frontend 
- - Desarrollo de aplicaciones 
- - Control de versiones Git / Git Hub
+# 💻 Mi stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Javascript, Java, Python, Mongo DB ATLAS.  
-
-# 📩  CONTACTO   📩
-
-Email: cokejonathang@gmail.com
-LinkedIn: https://www.linkedin.com/in/jonathan-giacomini/
