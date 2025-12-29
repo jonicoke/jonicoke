@@ -1,6 +1,9 @@
 # 💫 Sobre mí:
-Mi nombre es Jonathan, soy de la provincia de Buenos Aires y tengo 21 años. Estudio en la Universidad Nacional de Hurlingham (UNAHUR) la carrera Licenciatura en Informática. En el transcurso de mis estudios aprendí diversas habilidades y estrategias fundamentales de la lógica de programación. Así como la programación estructurada, estructura de datos, programación orientada a objetos, patrones de diseño, principios SOLID y la resolución de problemas.
-<br> Enfoco mis estudios en el desarrollo con Javascript, habiendo realizado diversos cursos universitarios y proyectos de manera autodidacta. Actualmente utilizo javascript nativo, sin embargo está en curso el desarrollo de mi conocimiento en el framework React.<br>
+Soy Jonathan Giacomini, estudiante de la Licenciatura en Informática en la Universidad Nacional de Hurlingham (UNAHUR). Me especializo en el desarrollo web y backend, con un fuerte enfoque en la lógica de programación, el manejo de datos y la resolución de problemas.
+
+Durante mi formación adquirí conocimientos en programación estructurada, estructuras de datos, programación orientada a objetos, patrones de diseño y principios SOLID, aplicándolos en proyectos académicos y personales.
+
+Trabajo principalmente con JavaScript, desarrollando aplicaciones con Node.js y Express, e integrando bases de datos NoSQL (MongoDB). Actualmente continúo ampliando mis conocimientos en React, con el objetivo de fortalecer mis habilidades en el desarrollo full stack.
 
 ## 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-giacomin) 
