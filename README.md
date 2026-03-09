@@ -31,14 +31,6 @@ Apasionado por el desarrollo Full stack, APIs y arquitectura de software.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonicoke&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonicoke&layout=compact&theme=tokyonight)
-
----
-
 ## 📌 Proyectos Destacados
 
 🏋️ **Sistema de Gestión para Gimnasios**  
