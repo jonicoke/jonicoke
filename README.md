@@ -1,13 +1,64 @@
-# 💫 Sobre mí:
-Soy Jonathan Giacomini, estudiante de la Licenciatura en Informática en la Universidad Nacional de Hurlingham (UNAHUR). Me especializo en el desarrollo web y backend, con un fuerte enfoque en la lógica de programación, el manejo de datos y la resolución de problemas.
+<h1 align="center">Hola, soy Jonathan Giacomini</h1>
+<h3 align="center">Full Stack Developer Junior</h3>
 
-Durante mi formación adquirí conocimientos en programación estructurada, estructuras de datos, programación orientada a objetos, patrones de diseño y principios SOLID, aplicándolos en proyectos académicos y personales.
+<p align="center">
+Estudiante avanzado de la Tecnicatura en Programación en UNAHUR, y estudiante de Lic. en Informática <br>
+Apasionado por el desarrollo Full stack, APIs y arquitectura de software.
+</p>
 
-Trabajo principalmente con JavaScript, desarrollando aplicaciones con Node.js y Express, e integrando bases de datos NoSQL (MongoDB). Actualmente continúo ampliando mis conocimientos en React, con el objetivo de fortalecer mis habilidades en el desarrollo full stack.
+---
 
-## 🌐 Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-giacomin) 
+## 🛠️ Tecnologías
 
-# 💻 Mi stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Lenguajes
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+
+### Bases de datos
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonicoke&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonicoke&layout=compact&theme=tokyonight)
+
+---
+
+## 📌 Proyectos Destacados
+
+🏋️ **Sistema de Gestión para Gimnasios**  
+Sistema full stack con Spring Boot para administrar alumnos, pagos y actividades.
+
+🤖 **Chatbot Backend**  
+API REST en Node.js con lógica conversacional y MongoDB.
+
+🌐 **Landing Pages Responsive**  
+Sitios web adaptables desarrollados con HTML, CSS y Bootstrap.
+
+---
+
+## 🌐 Contacto
+
+💼 LinkedIn  
+https://linkedin.com/in/jonathan-giacomini
+
+🌐 Portfolio  
+https://coke-portfolio.vercel.app
+
+📧 Email  
+giacomini.jonathan.dev@gmail.com
