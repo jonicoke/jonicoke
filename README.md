@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer</h3>
 
 <p align="center">
-Próximo a graduarme como Técnico en Programación en la Universidad Nacional de Hurlingham (UNAHUR) y actualmente cursando la Licenciatura en Informática. Especializado en desarrollo backend con Java y Spring Boot, con interés en APIs REST, arquitectura de software y buenas prácticas de desarrollo.
+Próximo a graduarme como Técnico en Programación en la Universidad Nacional de Hurlingham (UNAHUR) y actualmente cursando la Licenciatura en Informática. Especializado en desarrollo backend con Java y Spring Boot.
 </p>
 
 ---
