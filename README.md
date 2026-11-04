@@ -1,69 +1,126 @@
-<h1 align="center">Hola, soy Jonathan Giacomini</h1>
-<h3 align="center">Java Backend Developer</h3>
+<div align="center">
 
-<p align="center">
-Próximo a graduarme como Técnico en Programación en la Universidad Nacional de Hurlingham (UNAHUR) y actualmente cursando la Licenciatura en Informática. Especializado en desarrollo backend con Java y Spring Boot.
-</p>
+# Jonathan Giacomini
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=1000&color=F74E4E&center=true&repeat=false&width=500&height=30&lines=Java+Backend+Developer" alt="Typing SVG" />
+
+Estudiante de **Licenciatura en Informática** en la Universidad Nacional de Hurlingham, próximo a graduarme como **Técnico en Programación**.
+
+Me enfoco en el desarrollo backend con **Java y Spring Boot**, construyendo aplicaciones web, APIs REST e integraciones con servicios externos. 
+
+<a href="https://coke-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/jonathan-giacomini">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:giacomini.jonathan.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tecnologías
+## Proyectos destacados
 
-### Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=F78282&center=true&repeat=false&width=500&height=30&lines=Gym+Manager" alt="Typing SVG" />
+
+Sistema de gestión integral de gimnasios desarrollado en equipo con **Java y Spring Boot**.
+
+- Gestión de clientes, actividades e instructores.
+- Administración de pagos y asistencias.
+- Autenticación con Spring Security.
+- Persistencia con Spring Data JPA.
+
+**Stack:** `Java` `Spring Boot` `Spring Security` `JPA` `MariaDB`
+
+<a href="https://github.com/jonicoke/gym-manager"><strong>Ver repositorio →</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=F78282&center=true&repeat=false&width=500&height=30&lines=Apple+Store+MeLi+API" alt="Typing SVG" />
+
+Aplicación e-commerce full stack con integración a la **API de Mercado Libre**.
+
+- API REST desarrollada con Spring Boot.
+- OAuth 2.0 y renovación de tokens.
+- Caché para optimizar solicitudes.
+- Consultas concurrentes y catálogo dinámico.
+
+**Stack:** `Java` `Spring Boot` `REST API` `OAuth 2.0` `React`
+
+<a href="https://github.com/jonicoke/apple-store-meli"><strong>Ver repositorio →</strong></a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top">
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=F78282&center=true&repeat=false&width=500&height=30&lines=Status+Codes+API" alt="Typing SVG" />
+
+API REST desarrollada con **Java y Spring Boot**, orientada a la consulta de códigos de estado HTTP.
+
+- Endpoints REST.
+- Respuestas HTTP estructuradas.
+- Integración con servicios externos.
+- Contenerización con Docker.
+
+**Stack:** `Java` `Spring Boot` `REST API` `Docker`
+
+<a href="https://github.com/jonicoke/status-codes-api"><strong>Ver repositorio →</strong></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack tecnológico
+
+<div align="center">
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" alt="Backend technologies"/>
 
 ### Bases de datos
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
----
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" alt="Databases"/>
 
-## 📌 Proyectos Destacados
+### Frontend y herramientas
 
-🏋️ **Gym Manager**  
-Aplicación web desarrollada con Java y Spring Boot para la gestión integral de gimnasios. Incluye administración de clientes, actividades, instructores, pagos y autenticación con Spring Security.
+<img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,git,github,docker,postman&theme=dark" alt="Frontend and tools"/>
 
-🍎 **Apple Store**  
-Aplicación e-commerce desarrollada con React, incluyendo catálogo dinámico, carrito de compras, filtros, búsqueda y diseño responsive.
-
-🤖 **Chatbot Backend**  
-API REST en Node.js con lógica conversacional y MongoDB.
-
-🌐 **Landing Pages Responsive**  
-Sitios web adaptables desarrollados con HTML, CSS y Bootstrap.
+</div>
 
 ---
 
-## 🌐 Contacto
+## Formación académica
 
-💼 LinkedIn  
-https://linkedin.com/in/jonathan-giacomini
+**Universidad Nacional de Hurlingham (UNAHUR)**
 
-🌐 Portfolio  
-https://coke-portfolio.vercel.app
+- **Tecnicatura Universitaria en Programación** — Próximo a graduarme.
+- **Licenciatura en Informática** — En curso.
 
-📧 Email  
-giacomini.jonathan.dev@gmail.com
+---
+
+<div align="center">
+
+### Conectemos
+
+Estoy interesado en oportunidades de desarrollo backend con **Java y Spring Boot**, donde pueda aportar mis conocimientos y continuar creciendo profesionalmente.
+
+<a href="https://linkedin.com/in/jonathan-giacomini">LinkedIn</a> ·
+<a href="https://coke-portfolio.vercel.app">Portfolio</a> ·
+<a href="mailto:giacomini.jonathan.dev@gmail.com">Email</a>
+
+</div>
