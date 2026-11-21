@@ -4,7 +4,7 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=1000&color=F74E4E&center=true&repeat=false&width=500&height=30&lines=Java+Backend+Developer" alt="Typing SVG" />
 
-Estudiante de **Licenciatura en Informática** en la Universidad Nacional de Hurlingham, próximo a graduarme como **Técnico en Programación**.
+**Técnico Universitario en Programación** y Estudiante de **Licenciatura en Informática** de la Universidad Nacional de Hurlingham.
 
 Me enfoco en el desarrollo backend con **Java y Spring Boot**, construyendo aplicaciones web, APIs REST e integraciones con servicios externos. 
 
